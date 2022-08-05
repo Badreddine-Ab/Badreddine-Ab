@@ -48,7 +48,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media2.giphy.com/media/LSFXlAmuWhf6KN49FG/200w.gif?cid=82a1493bfrtdiwwai0t22rhm0z1tf0kk6fv5v4c0f76c086t&rid=200w.gif&ct=g">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
