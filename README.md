@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badreddine Abourial</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badreddine-ab&label=Profile%20views&color=0e75b6&style=flat" alt="badreddine-ab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badreddine-ab" alt="badreddine-ab" /></a> </p>
