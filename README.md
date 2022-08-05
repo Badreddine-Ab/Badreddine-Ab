@@ -1,5 +1,12 @@
-<h1 align="center">Yo 👋, I'm Badreddine Abourial</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 - 🌱 I’m currently learning **Java**
 
