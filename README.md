@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Yo 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -8,19 +8,39 @@
 </br>
 </br>
 
+# About ME 💬 :
+
+### - I'm 21 years  old Full Stuck developer.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
 - 🤝 I’m looking for help with **My life**
 
-- 👨‍💻 All of my projects are available at [My Github](My Github)
+- 👨‍💻 All of my projects are available at (My Github)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, React...**
 
 - 📫 How to reach me **badrestronger@gmail.com**
 
 - ⚡ Fun fact **I'm enjoying this.**
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Manhwa/Manga 
+- ✨ Football (Neighbourhood Professional XD)
+- ✨ Gym
+
+</br>
+</br>
+</br>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
