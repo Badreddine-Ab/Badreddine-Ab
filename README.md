@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at (My Github)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, React...**
+- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, ReactJs...**
 
 - 📫 How to reach me **badrestronger@gmail.com**
 
