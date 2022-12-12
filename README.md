@@ -84,4 +84,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
