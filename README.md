@@ -14,7 +14,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **GraphQl**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
@@ -22,14 +22,14 @@
 
 - 👨‍💻 All of my projects are available at (My Github)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, ReactJs...**
+- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, ReactJs, RestAPI, ExpressJs...**
 
 - 📫 How to reach me **badrestronger@gmail.com**
 
 - ⚡ Fun fact **I'm enjoying this.**
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Coding Addict
 - ✨ Watching Anime
 - ✨ Reading Manhwa/Manga 
 - ✨ Football (Neighbourhood Professional XD)
