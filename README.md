@@ -14,7 +14,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
