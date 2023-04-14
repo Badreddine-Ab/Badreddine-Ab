@@ -14,7 +14,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
 
-- 🌱 I’m currently learning **Salesforce**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at (My Github)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, ReactJs, RestAPI, ExpressJs, Graphql, firebase...**
+- 💬 Ask me about **HTML, CSS, JavaScript, Php , Laravel, ReactJs, RestAPI, ExpressJs, Graphql, firebase, docker, GirlabCI, Jenkins...**
 
 - 📫 How to reach me **badrestronger@gmail.com**
 
