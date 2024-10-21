@@ -45,15 +45,7 @@ Web Technologies: ReactJS, VueJS, ExpressJS, Laravel (PHP)
 <a href="https://github.com/Badreddine-Ab">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Badreddine-Ab&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Badreddine's GitHub Stats" />
 </a>
-🎯 Projects
 
-GT by cegedim-srh: A Jira alternative using ExpressJS, VueJS, PostgreSQL, Keycloak, Morgan, Docker, GitLabCI.
-Thala-Fedark: Product management and online payments system using ExpressJS, ReactJS, Apollo-GraphQL, PostgreSQL, Docker.
-PharmGarde: Mobile app for locating nearby on-call pharmacies using ReactJS, React Native, Express, Firebase, Docker.
-
-🏆 Certifications
-
-[List any relevant DevOps or cloud certifications you have]
 
 📚 Continuous Learning
 I believe in continuous learning and staying up-to-date with the latest in DevOps and cloud technologies. Some areas I'm currently exploring:
