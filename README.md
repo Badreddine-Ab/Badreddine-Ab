@@ -1,31 +1,52 @@
-Yo 👋
-<div align="center"> <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif"> </div> </br> </br> </br>
-About ME 💬 :
-- I'm a 23-year-old DevOps Engineer.
-<img height="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
-🌱 I’m currently working on Cloud Infrastructure and CI/CD Pipelines.
+Hi there, I'm Badreddine Abourial 👋
+DevOps Engineer | Cloud Enthusiast | Automation Specialist
+I'm a passionate DevOps Engineer with a strong background in Full Stack Development. I'm dedicated to optimizing cloud infrastructure, streamlining CI/CD pipelines, and fostering collaboration between development and operations teams.
 
-👯 I’m looking to collaborate on DevOps, Automation, and Infrastructure-as-Code projects.
-
-🤝 I’m always open to discuss DevOps, Cloud Solutions, and Kubernetes.
-
-👨‍💻 Check out my work on GitHub.
-
-💬 Ask me about Kubernetes, Docker, Terraform, Jenkins, GitLab CI, ArgoCD, and GCP.
-
+🔭 I'm currently working on optimizing cloud infrastructure and CI/CD pipelines
+🌱 I'm always learning and exploring new DevOps tools and practices
+👯 I'm looking to collaborate on open-source DevOps projects
+💬 Ask me about Docker, Kubernetes, CI/CD, Cloud Platforms, and Infrastructure as Code
 📫 How to reach me: developerbadreddine@gmail.com
+⚡ Fun fact: I've transitioned from Full Stack to DevOps and I'm loving every moment of it!
 
-⚡ Fun fact: DevOps isn’t just my job—it’s a passion!
+Connect with me:
+<img align="left" alt="Badreddine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Badreddine | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<br />
+Languages and Tools:
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br />
+<br />
 
-- Hobbies :
-✨ DevOps Enthusiast
-✨ Watching Anime
-✨ Reading Manhwa/Manga
-✨ Football
-✨ Gym
-</br> </br> </br>
-Contact Me :
-<p> </br> <img height="320" width="450" align="right" alt="GIF" src="https://media2.giphy.com/media/LSFXlAmuWhf6KN49FG/200w.gif?cid=82a1493bfrtdiwwai0t22rhm0z1tf0kk6fv5v4c0f76c086t&rid=200w.gif&ct=g">
-Feel free to reach out if you want to chat about DevOps, cloud infrastructure, or even just to game together! 😉
+🚀 My DevOps Skills
 
-<a href="developerbadreddine@gmail.com"> <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a> <a href="https://www.linkedin.com/in/badreddine-abourial-ba0150178/"> <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" /> </br> </br> </br> </a> <a href="https://www.reddit.com/user/BadrSatan"> <img align="left" alt="Reddit" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" /> </a> </p> </br> </br> </br> </br> </br> </br> </br> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" alt="elk" width="40" height="40"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" alt="gitlab" width="40" height="40"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Cloud & Infrastructure: Kubernetes, Docker, Google Cloud Platform (GCP), Rancher, Helm, ArgoCD (GitOps)
+CI/CD & Version Control: Jenkins, GitLab CI, GitHub Actions, Git, Gitea
+Infrastructure as Code: Terraform
+Monitoring & Logging: Grafana, Prometheus, Dynatrace, ELK Stack (Elasticsearch, Logstash, Kibana)
+Security & Compliance: Vault HashiCorp (Secrets Management), Sonarqube, OWASP ZAP
+Programming Languages: Python, JavaScript/TypeScript
+Web Technologies: ReactJS, VueJS, ExpressJS, Laravel (PHP)
+Methodologies: Agile Scrum, DevOps practices
+
+
+📊 GitHub Stats
+Show Image
+
+
+
+🎉 Fun Facts
+
+Anime enthusiast 📺
+Avid reader of Manhwa/Manga 📚
+Neighborhood football champion ⚽
+Gym enthusiast 🏋️‍♂️
