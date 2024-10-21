@@ -1,52 +1,43 @@
-Hi there, I'm Badreddine Abourial 👋
-DevOps Engineer | Cloud Enthusiast | Automation Specialist
-I'm a passionate DevOps Engineer with a strong background in Full Stack Development. I'm dedicated to optimizing cloud infrastructure, streamlining CI/CD pipelines, and fostering collaboration between development and operations teams.
+Hey there! 👋
+<div align="center"> <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif"> </div> </br> </br> </br>
+I’m Badreddine Abourial, a DevOps Engineer who loves automating all the things! 🚀 When I’m not wrangling cloud infrastructure or building CI/CD pipelines, you can find me watching anime, reading manga, or scoring goals in football (in my dreams, at least 😄).
 
-🔭 I'm currently working on optimizing cloud infrastructure and CI/CD pipelines
-🌱 I'm always learning and exploring new DevOps tools and practices
-👯 I'm looking to collaborate on open-source DevOps projects
-💬 Ask me about Docker, Kubernetes, CI/CD, Cloud Platforms, and Infrastructure as Code
-📫 How to reach me: developerbadreddine@gmail.com
-⚡ Fun fact: I've transitioned from Full Stack to DevOps and I'm loving every moment of it!
+🌟 About Me
+<img height="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
+💼 DevOps Engineer by day, cloud automation ninja by night.
+📚 Currently mastering the art of Kubernetes, Terraform, and promising myself I’ll finish that Udemy course.
+🤝 Open to collaborations on DevOps projects, or even just talking about the best way to automate coffee-making ☕.
+🧑‍💻 Check out my GitHub – it's not just a repository; it’s a journey.
+📫 Want to talk? Shoot me an email: developerbadreddine@gmail.com.
+⚡ Fun fact: I believe there’s nothing a good YAML file can’t fix...except maybe a broken heart. 💔
+🛠️ Tools & Tech That I Tame:
+Cloud & Infrastructure
+🛡️ Kubernetes and Docker (Containers for days!).
+☁️ Google Cloud Platform – still waiting for that perfect cloud.
+📦 Helm, Rancher, and ArgoCD (GitOps, because manual deployments are sooo last decade).
+CI/CD & Version Control
+🚀 Jenkins, GitLab CI, GitHub Actions – automation is life.
+🔧 Git, Gitea – pushing code and hoping it works.
+Infrastructure as Code & Configuration Management
+💡 Terraform – turning infrastructure into code magic.
+Monitoring & Logging
+👁️ Grafana, Prometheus, ELK Stack – because someone’s gotta keep an eye on things.
+💻 Dynatrace – for when things go south... fast.
+Security & Compliance
+🔐 Vault HashiCorp – hiding secrets like a pro.
+🛡️ Sonarqube, OWASP ZAP – keeping those vulnerabilities at bay.
+Programming Languages
+🐍 Python – because it’s not a real tool unless there's a Python script for it.
+⚙️ JavaScript/TypeScript – for all your frontend/backend/middle-of-nowhere needs.
+🎉 Hobbies & Fun Stuff
+Coding Addict: Because sleep is for the weak.
+Anime & Manga: Still waiting for my life to turn into a shonen anime...
+Football: Amateur legend. Neighbors call me the “next big thing”... in their group chat.
+Gym Enthusiast: Trying to lift heavy things and put them back down, all while pretending I know what I'm doing.
+📞 Let's Chat!
+<img height="320" width="450" align="right" alt="GIF" src="https://media2.giphy.com/media/LSFXlAmuWhf6KN49FG/200w.gif?cid=82a1493bfrtdiwwai0t22rhm0z1tf0kk6fv5v4c0f76c086t&rid=200w.gif&ct=g">
+If you're into DevOps, cloud, or just want to exchange anime recommendations, feel free to reach out! I'm always up for a chat or collaboration.
 
-Connect with me:
-<img align="left" alt="Badreddine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Badreddine | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<br />
-Languages and Tools:
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<br />
-<br />
-
-🚀 My DevOps Skills
-
-Cloud & Infrastructure: Kubernetes, Docker, Google Cloud Platform (GCP), Rancher, Helm, ArgoCD (GitOps)
-CI/CD & Version Control: Jenkins, GitLab CI, GitHub Actions, Git, Gitea
-Infrastructure as Code: Terraform
-Monitoring & Logging: Grafana, Prometheus, Dynatrace, ELK Stack (Elasticsearch, Logstash, Kibana)
-Security & Compliance: Vault HashiCorp (Secrets Management), Sonarqube, OWASP ZAP
-Programming Languages: Python, JavaScript/TypeScript
-Web Technologies: ReactJS, VueJS, ExpressJS, Laravel (PHP)
-Methodologies: Agile Scrum, DevOps practices
-
-
-📊 GitHub Stats
-Show Image
-
-
-
-🎉 Fun Facts
-
-Anime enthusiast 📺
-Avid reader of Manhwa/Manga 📚
-Neighborhood football champion ⚽
-Gym enthusiast 🏋️‍♂️
+LinkedIn (Professional? Meh, maybe just for job offers 😅).
+Reddit (I lurk more than I post, but hey, feel free to say hi).
+Email (Guaranteed reply... eventually 😜).
