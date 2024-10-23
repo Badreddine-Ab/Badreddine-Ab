@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://www.google.com/imgres?q=hey%20there%20anime%20gifs&imgurl=https%3A%2F%2Fmedia.tenor.com%2Fl1Eq-DOUzqQAAAAM%2Fhi-there.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-anime-gifs&docid=PCfAk6mD9WWhUM&tbnid=rpfpPZbCpal1wM&vet=12ahUKEwjz6sDCmqSJAxW0X0EAHZzCO4MQM3oECG0QAA..i&w=220&h=124&hcb=2&ved=2ahUKEwjz6sDCmqSJAxW0X0EAHZzCO4MQM3oECG0QAA">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
