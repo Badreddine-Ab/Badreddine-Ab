@@ -1,8 +1,9 @@
 # Hey there! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="Hi There GIF" align="center" src="https://media1.tenor.com/m/l1Eq-DOUzqQAAAAd/hi-there.gif">
 </div>
+
 
 </br>
 </br>
@@ -14,7 +15,7 @@ I’m **Badreddine Abourial**, a DevOps Engineer who loves automating all the th
 
 ## 🌟 About Me
 
-<img height="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/J-WqNV4NKXEAAAAM/anime-luffy.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwOwdxornm0HyD9B0mqXSZAM">
 
 - 💼 **DevOps Engineer** by day, cloud automation ninja by night.  
 - 📚 Currently mastering the art of **Kubernetes**, **Terraform**, and **promising myself I’ll finish that Udemy course**.  
