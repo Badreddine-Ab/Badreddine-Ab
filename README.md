@@ -1,76 +1,91 @@
-# Hey there! 👋
+# Hey there! I'm Badreddine 👋 
 
 <div align="center">
-<img height="300" width="700" alt="Hi There GIF" align="center" src="https://media1.tenor.com/m/l1Eq-DOUzqQAAAAd/hi-there.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF6ZzR0bm96amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3og0IPXWpNoB9L458c/giphy.gif" width="600" alt="Epic Coding GIF">
 </div>
 
-
-</br>
-</br>
-</br>
-
-I’m **Badreddine Abourial**, a DevOps Engineer who loves automating all the things! 🚀 When I’m not wrangling cloud infrastructure or building CI/CD pipelines, you can find me watching anime, reading manga, or scoring goals in football (in my dreams, at least 😄).
+<p align="center">
+  <strong>Lead DevOps Engineer | Cloud Architect | Automation Sorcerer</strong><br>
+  Optimizing infrastructure at <b>MooBe (INDEXOR)</b> and making the cloud behave, one YAML file at a time.
+</p>
 
 ---
 
-## 🌟 About Me
+## ⚡ Leveling Up: The Story So Far
 
-<img height="400" width="500" alt="GIF" align="right" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwOwdxornm0HyD9B0mqXSZAM">
+I'm an **Ingénieur Production Cloud & DevOps** who transitioned from building full-stack apps to orchestrating massive cloud environments. I specialize in making things faster, safer, and completely automated. 
 
-- 💼 **DevOps Engineer** by day, cloud automation ninja by night.  
-- 📚 Currently mastering the art of **Kubernetes**, **Terraform**, and **promising myself I’ll finish that Udemy course**.  
-- 🤝 Open to collaborations on **DevOps projects**, or even just talking about the best way to automate coffee-making ☕.  
-- 🧑‍💻 Check out my [GitHub](https://github.com/Badreddine-Ab) – it's not just a repository; it’s a **journey**.  
-- 📫 Want to talk? Shoot me an email: **developerbadreddine@gmail.com**.  
-- ⚡ Fun fact: I believe there’s nothing a good YAML file can’t fix...except maybe a broken heart. 💔
+If my life were a Shonen anime, I’d be in the **"Training Arc"** of mastering **Kubernetes** and **Infrastructure as Code**, currently acting as the Captain (Lead) of my squad.
 
----
-
-## 🛠️ Tools & Tech That I Tame:
-
-### **Cloud & Infrastructure**
-- 🛡️ **Kubernetes** and **Docker** (Containers for days!).  
-- ☁️ **Google Cloud Platform** – still waiting for that perfect cloud.  
-- 📦 **Helm**, **Rancher**, and **ArgoCD** (GitOps, because manual deployments are sooo last decade).  
-
-### **CI/CD & Version Control**
-- 🚀 **Jenkins**, **GitLab CI**, **GitHub Actions** – automation is life.  
-- 🔧 **Git**, **Gitea** – pushing code and hoping it works.
-
-### **Infrastructure as Code & Configuration Management**
-- 💡 **Terraform** – turning infrastructure into **code magic**.  
-
-### **Monitoring & Logging**
-- 👁️ **Grafana**, **Prometheus**, **ELK Stack** – because someone’s gotta keep an eye on things.  
-- 💻 **Dynatrace** – for when things go south... fast.
-
-### **Security & Compliance**
-- 🔐 **Vault HashiCorp** – hiding secrets like a pro.  
-- 🛡️ **Sonarqube**, **OWASP ZAP** – keeping those vulnerabilities at bay.
-
-### **Programming Languages**
-- 🐍 **Python** – because it’s not a real tool unless there's a Python script for it.  
-- ⚙️ **JavaScript/TypeScript** – for all your frontend/backend/middle-of-nowhere needs.
+- 🏗️ **Lead DevOps @ MooBe**: Orchestrating roadmaps and turning "it works on my machine" into "it scales on production."
+- 🛡️ **Ex-Cegedim**: Migrated 15+ microservices and saved the security team 15+ hours a week (I'm basically a productivity ninja).
+- 🎙️ **Community Leader**: When I'm not coding, I'm mentoring at hackathons or speaking at conferences about DevOps & AI.
 
 ---
 
-## 🎉 Hobbies & Fun Stuff
+## 🛠️ My Arsenal (Tech Stack)
 
-- **Coding Addict**: Because sleep is for the weak.  
-- **Anime & Manga**: Still waiting for my life to turn into a shonen anime...  
-- **Football**: Amateur legend. Neighbors call me the **“next big thing”**... in their group chat.  
-- **Gym Enthusiast**: Trying to lift heavy things and put them back down, all while pretending I know what I'm doing.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeXFidXF6ZzR0bm96amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3X9Gv1fOnfKY/giphy.gif" width="300" align="right">
+</div>
+
+### ☁️ Cloud & Orchestration
+- **The Big Three**: Google Cloud Platform (Main), Azure & AWS (Side Quests).
+- **Containers**: Kubernetes (GKE, AKS), Docker, Helm, Rancher.
+- **IaC**: Terraform (Reducing setup time by 50%!), Pulumi.
+
+### 🚀 CI/CD & GitOps
+- **Automation**: GitHub Actions, GitLab CI, Jenkins.
+- **GitOps**: ArgoCD (Reducing deployment fails by 40% – no more "Oops" moments).
+- **Developer Experience**: Backstage (IDP).
+
+### 👁️ Observability & Security
+- **Monitoring**: Grafana, Prometheus, ELK, GCP Logs.
+- **Security**: HashiCorp Vault, Keycloak, SonarQube.
+
+### 💻 Languages
+- **Scripting/Logic**: Python, Bash, Go, Node.js.
+- **Web**: ReactJS, Next.js, Laravel.
 
 ---
 
-## 📞 Let's Chat!
+## 📊 Power Stats (Real Impact)
 
-<img height="320" width="450" align="right" alt="GIF" src="https://media2.giphy.com/media/LSFXlAmuWhf6KN49FG/200w.gif?cid=82a1493bfrtdiwwai0t22rhm0z1tf0kk6fv5v4c0f76c086t&rid=200w.gif&ct=g">
-
-If you're into DevOps, cloud, or just want to exchange anime recommendations, feel free to reach out! I'm always up for a chat or collaboration.
-
-- **[LinkedIn](https://www.linkedin.com/in/badreddine-abourial-ba0150178/)** (Professional? Meh, maybe just for job offers 😅).  
-- **[Reddit](https://www.reddit.com/user/BadrSatan)** (I lurk more than I post, but hey, feel free to say hi).  
-- **[Email](mailto:developerbadreddine@gmail.com)** (Guaranteed reply... eventually 😜).
+| Skill | Effect |
+| :--- | :--- |
+| **CI/CD Optimization** | ⚡ -40% Time-to-deploy |
+| **Infrastructure as Code** | 🏗️ -50% Setup Time |
+| **Security Automation** | 🛡️ +15h/week saved for SecOps |
+| **Coffee Consumption** | ☕ Over 9000! |
 
 ---
+
+## 🎨 Beyond the Terminal
+
+When the `kubectl` commands are resting and the pipelines are green:
+
+- 🏮 **Anime & Manga**: Currently catching up on my watch list. If a deployment takes 20 minutes, that’s exactly one episode of One Piece.
+- ⚽ **Football**: Still an amateur legend. I play like Ronaldinho in my head, but like a 404 error on the pitch.
+- 🏋️ **Gym**: Trying to lift heavy circles so I can carry the weight of production on my shoulders.
+- 🤝 **Giving Back**: Active member of **Rotaract Marrakech Toubkal** and mentoring the next generation of devs.
+
+---
+
+## 📞 Summon Me!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/badreddine-abourial-ba0150178/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:developerbadreddine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
+
+> "The only thing better than a working script is a script that works and has comments." — *Probably me, after a 3 AM debugging session.*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6ZzR0bm96amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp92S8VfS7S/giphy.gif" width="400">
+</div>
