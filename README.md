@@ -54,21 +54,21 @@
 ## 🌍 Outside the terminal
 
 <div align="center">
-  <img height="220" alt="anime adventure journey" src="https://media.giphy.com/media/3o6ZsXOlOPsucbyyR2/giphy.gif" />
+  <img height="220" alt="anime hiking exploration" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 </div>
 
 - 🏔️ Hiking & mountains
 - 🧳 Solo traveling
 - 🪂 Skydiving, bungee jumping, adrenaline stuff
 - ⚽ Football
-- 🎌 Anime & manga (still part of the vibe)
+- 🎌 Anime & manga (moderate dosage)
 
 ---
 
 ## ⚡ Random truths
 
 <div align="center">
-  <img height="220" alt="anime panic funny" src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" />
+  <img height="220" alt="anime shocked funny" src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" />
 </div>
 
 - I trust automation more than humans.
@@ -80,7 +80,7 @@
 ## 🤝 Reach me
 
 <div align="center">
-  <img height="200" alt="anime friendly wave" src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" />
+  <img height="200" alt="anime calm greeting" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" />
 </div>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/
