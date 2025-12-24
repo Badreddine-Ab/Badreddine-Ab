@@ -1,8 +1,7 @@
 # Hey there! I'm Badreddine 👋 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm96ZXI2bmZ5bmR3ZzR0bnV6amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12UlfHpF05ielO/giphy.gif" width="600" alt="Luffy Waving">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5enN1YTV6YmRzbmZ6amZ6amZ6amZ6amZ6amZ6amZ6amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/DSxKEQ49vSUnS/giphy.gif" width="600" alt="Luffy Waving">
 </div>
 
 <p align="center">
@@ -18,22 +17,25 @@ I’m an **Ingénieur Production Cloud & DevOps** with a passion for high-perfor
 
 - 🏗️ **Lead DevOps @ MooBe**: Orchestrating roadmaps and setting the "production-ready" standard.
 - 🛡️ **The Automator**: At Cegedim, I saved the security team 15+ hours a week. Efficiency is my middle name.
-- 🎙️ **Community Captain**: Conférencier, Mentor, and active **Rotaract** member. I believe in sharing knowledge (and GIFs).
+- 🎙️ **Community Captain**: Conférencier, Mentor, and active **Rotaract** member.
 
 ---
 
 ## 📊 Power Stats (Real Impact)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh0NXEycXp6NmU2ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/bLy8c50gKMgxy/giphy.gif" width="300" align="right">
+</div>
 
 | Skill | Power Level | Impact |
 | :--- | :--- | :--- |
 | **CI/CD Sorcery** | 🟦🟦🟦🟦⬜ | **-40%** Time-to-deploy |
 | **IaC (Terraform)** | 🟦🟦🟦🟦🟦 | **-50%** Infrastructure setup time |
 | **GitOps (ArgoCD)** | 🟦🟦🟦🟦⬜ | **-40%** Deployment failure rate |
-| **Coffee Drinking** | 🟦🟦🟦🟦🟦 | **+9000** Productivity |
+| **Build Optimization**| 🟦🟦🟦⬜⬜ | **-30%** Build time (Node/Next) |
+| **Coffee Drinking** | 🟦🟦🟦🟦🟦 | **OVER 9000!!** |
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm96ZXI2bmZ5bmR3ZzR0bnV6amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/tX7S3zMekU5RS/giphy.gif" width="400" alt="Naruto Running">
-</div>
+<br clear="right"/>
 
 ---
 
@@ -61,22 +63,20 @@ I’m an **Ingénieur Production Cloud & DevOps** with a passion for high-perfor
 
 ## 🎮 Beyond the Terminal
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRzYnh2YnNycXF6NmU2ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/11T1ycqTG2EcE/giphy.gif" width="400" alt="Zoro Chilling">
+</div>
+
 When I'm not writing YAML or debugging K8s clusters:
 
-- 🏮 **Anime & Manga**: If I'm not responding, I'm probably finishing a season of *Jujutsu Kaisen* or *One Piece*.
+- 🏮 **Anime & Manga**: Currently living my own Training Arc. If I'm AFK, I'm watching *One Piece* or *Jujutsu Kaisen*.
 - ⚽ **Football**: I play with the passion of a pro, but usually end up with the stats of a 404 error.
 - 🏋️ **Gym**: Lifting weights to compensate for the heavy lifting I do in production.
-- 🌍 **Rotaract**: Making a difference in Marrakech through community actions.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm96ZXI2bmZ5bmR3ZzR0bnV6amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/4ilf97p30fAsM/giphy.gif" width="400" alt="Funny Anime GIF">
-</div>
+- 🌍 **Rotaract**: Active member making a difference in Marrakech.
 
 ---
 
 ## 📞 Let's Connect!
-
-I'm always open to talking about Cloud Architecture, DevOps culture, or why your pipeline is failing at 5 PM on a Friday.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badreddine-abourial-ba0150178/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerbadreddine@gmail.com)
@@ -84,5 +84,5 @@ I'm always open to talking about Cloud Architecture, DevOps culture, or why your
 > *"The best part about DevOps? You never have to say 'It worked on my machine' ever again."*
 
 <div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm96ZXI2bmZ5bmR3ZzR0bnV6amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="150" alt="Peace out">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNudTZkbzF6ZzR0bnV6amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="150" alt="Peace out">
 </div>
