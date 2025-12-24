@@ -1,89 +1,87 @@
-# Yo! I’m Badreddine 👋 (aka Badr)
+# Hey, I’m Badreddine 👋
 
 <div align="center">
-  <img height="280" alt="anime wave hello" src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif">
+  <img height="260" alt="developer waving anime" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </div>
 
 <br/>
 
-### Welcome to my little corner of the internet.
-I’m **Badreddine Abourial** — I like **good vibes**, **clean systems**, and **questionable life decisions** like *“sure, let’s jump off a bridge (with a rope).”* 😄
+I’m **Badreddine Abourial**.  
+I build things, break them (on purpose), automate the boring parts, and enjoy challenges — technical or physical.
 
 ---
 
-## 🧠 What I’m about (personal edition)
-
-- 🧩 I love **building stuff**, organizing chaos, and making things smoother (life included).
-- 🏔️ **Hiking** is my therapy. If there’s a mountain, I will probably try to climb it.
-- 🧳 **Solo traveling** addict — I collect stamps, stories, and “how did I end up here?” moments.
-- 🪂 **Adrenaline enjoyer**: skydiving, bungee jumping, extreme anything…  
-  My comfort zone and I are not friends.
-- 🍜 Anime + manga occasionally (not 24/7)… but when it hits, it hits.
+## 🧑‍💻 What I do
 
 <div align="center">
-  <img height="220" alt="anime hype" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  <img height="220" alt="dev typing fast anime" src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif">
 </div>
+
+- I work in **DevOps / Cloud / Infrastructure**.
+- I like **automation**, **clean systems**, and setups that don’t wake you up at 3AM.
+- I enjoy turning messy deployments into **repeatable, boring, reliable** workflows.
+- Big fan of **containers**, **CI/CD**, **infrastructure as code**, and **monitoring that actually tells you something**.
+- If it can be scripted, automated, or documented — it probably should be.
+
+> Motto: *Make it work. Then make it clean. Then make it boring.*
 
 ---
 
-## 🧗 Hobbies & Side Quests
-
-### 🌍 Solo traveling
-I travel alone because:
-1) I move fast  
-2) I eat when I want  
-3) I make spontaneous plans that would scare a group chat
+## 🛠️ Things I enjoy working with
 
 <div align="center">
-  <img height="220" alt="anime running travel energy" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif">
+  <img height="220" alt="anime tools montage" src="https://media.giphy.com/media/26xBt1U4AkGm0S0Vy/giphy.gif">
 </div>
 
-### 🏔️ Hiking
-I love hikes that start with:
-> “It’s an easy trail bro”
-…and end with:
-> “Why is the air spicy up here?”
-
-<div align="center">
-  <img height="220" alt="anime sweating" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
-</div>
-
-### ⚡ Adrenaline stuff
-Skydiving / bungee jumping / anything that makes my brain go:
-**“WE’RE DOING WHAT NOW?”**
-
-<div align="center">
-  <img height="220" alt="anime screaming" src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif">
-</div>
+- Cloud & infrastructure
+- Kubernetes & containers
+- CI/CD pipelines
+- Automation & tooling
+- Debugging “it worked yesterday” issues
+- Observability (logs, metrics, dashboards)
 
 ---
 
-## 😂 Fun facts (very serious)
-
-- 🧠 My brain has two modes:  
-  **“Let’s optimize this.”** and **“Let’s do something unreasonably risky.”**
-- 🍵 I can be calm… until someone says *“it’s just a small change.”*
-- 🗺️ I trust maps 70% of the time. The other 30% is pure vibes.
+## 🌍 Outside the terminal
 
 <div align="center">
-  <img height="220" alt="anime smug" src="https://media.giphy.com/media/7vDoUoDZHoUQxMPkd7/giphy.gif">
+  <img height="220" alt="anime walking adventure" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif">
 </div>
+
+- 🏔️ **Hiking** — the higher, the better
+- 🧳 **Solo traveling** — maps optional, curiosity mandatory
+- 🪂 **Adrenaline stuff** — skydiving, bungee jumping, anything that spikes the heart rate
+- ⚽ Football when my legs agree
+- 🍜 Anime & manga (in reasonable amounts… sometimes)
+
+---
+
+## ⚡ Fun facts
+
+<div align="center">
+  <img height="220" alt="anime panic funny" src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif">
+</div>
+
+- I trust automation more than humans (including myself).
+- I like challenges that are either **technically hard** or **slightly dangerous**.
+- I believe most problems can be solved with:
+  1. logs  
+  2. coffee  
+  3. walking away for 10 minutes  
 
 ---
 
 ## 🤝 Let’s connect
 
-If you want to talk travel routes, hiking spots, adrenaline experiences, or share something funny:
+<div align="center">
+  <img height="220" alt="anime peace sign" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
+</div>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/
 - 🧃 Reddit: https://www.reddit.com/user/BadrSatan
 - 📫 Email: developerbadreddine@gmail.com
-
-<div align="center">
-  <img height="240" alt="anime peace" src="https://media.giphy.com/media/26xBt1U4AkGm0S0Vy/giphy.gif">
-</div>
+- 🧑‍💻 GitHub: https://github.com/Badreddine-Ab
 
 ---
 
-> PS: If you see me planning a “quick hike” that starts at 5AM…  
-> mind your business. 😄
+> If you’re here for code, infra, automation, or just vibes — welcome 👌
