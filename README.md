@@ -1,97 +1,89 @@
-# Yo! I’m Badreddine 👋✨ (a.k.a. Badr)
+# Yo! I’m Badreddine 👋 (aka Badr)
 
 <div align="center">
-  <img height="280" width="720" alt="anime hello" src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-hello.gif">
+  <img height="280" alt="anime wave hello" src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif">
 </div>
 
 <br/>
 
+### Welcome to my little corner of the internet.
+I’m **Badreddine Abourial** — I like **good vibes**, **clean systems**, and **questionable life decisions** like *“sure, let’s jump off a bridge (with a rope).”* 😄
+
+---
+
+## 🧠 What I’m about (personal edition)
+
+- 🧩 I love **building stuff**, organizing chaos, and making things smoother (life included).
+- 🏔️ **Hiking** is my therapy. If there’s a mountain, I will probably try to climb it.
+- 🧳 **Solo traveling** addict — I collect stamps, stories, and “how did I end up here?” moments.
+- 🪂 **Adrenaline enjoyer**: skydiving, bungee jumping, extreme anything…  
+  My comfort zone and I are not friends.
+- 🍜 Anime + manga occasionally (not 24/7)… but when it hits, it hits.
+
 <div align="center">
-  <img height="260" alt="anime vibe" src="https://media.tenor.com/9n7QZ3eC0eUAAAAC/gojo-satoru-gojo.gif">
+  <img height="220" alt="anime hype" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </div>
 
 ---
 
-## 🌙 About Me (100% personal, 0% corporate 😤)
+## 🧗 Hobbies & Side Quests
 
-- I’m **Badreddine Abourial** — human by default, **anime character in progress**.
-- I watch anime like it’s a full-time responsibility (it’s not… but it *feels* like it is).
-- I read manga and tell myself: “one chapter” (liar).
-- Football enjoyer ⚽ (skills vary depending on who’s watching).
-- Gym sometimes 🏋️ (mostly to earn snacks… and dramatic poses).
+### 🌍 Solo traveling
+I travel alone because:
+1) I move fast  
+2) I eat when I want  
+3) I make spontaneous plans that would scare a group chat
 
 <div align="center">
-  <img height="260" alt="anime dramatic" src="https://media.tenor.com/M2wYp9Uo6c0AAAAC/anime-dramatic.gif">
+  <img height="220" alt="anime running travel energy" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif">
+</div>
+
+### 🏔️ Hiking
+I love hikes that start with:
+> “It’s an easy trail bro”
+…and end with:
+> “Why is the air spicy up here?”
+
+<div align="center">
+  <img height="220" alt="anime sweating" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
+</div>
+
+### ⚡ Adrenaline stuff
+Skydiving / bungee jumping / anything that makes my brain go:
+**“WE’RE DOING WHAT NOW?”**
+
+<div align="center">
+  <img height="220" alt="anime screaming" src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif">
 </div>
 
 ---
 
-## 🍜 Current Mood / Lore
+## 😂 Fun facts (very serious)
 
-> “Yes, I’m busy… busy thinking about the next episode.”
-
-- If life gets hard, I simply **open an opening** and pretend I’m training for a tournament arc.
-- I solve problems using the sacred technique: **sleep → snack → retry**.
-- My superpower is **getting emotionally attached** to fictional characters in 12 minutes.
+- 🧠 My brain has two modes:  
+  **“Let’s optimize this.”** and **“Let’s do something unreasonably risky.”**
+- 🍵 I can be calm… until someone says *“it’s just a small change.”*
+- 🗺️ I trust maps 70% of the time. The other 30% is pure vibes.
 
 <div align="center">
-  <img height="240" alt="anime eat" src="https://media.tenor.com/1nNnRZyQd9kAAAAC/anime-eat.gif">
-  <img height="240" alt="anime sleep" src="https://media.tenor.com/47qpxkqY0nEAAAAC/anime-sleep.gif">
+  <img height="220" alt="anime smug" src="https://media.giphy.com/media/7vDoUoDZHoUQxMPkd7/giphy.gif">
 </div>
 
 ---
 
-## 🎌 Anime Corner (important business)
+## 🤝 Let’s connect
 
-### ✅ I’m into:
-- **Shonen hype** (screaming = power)
-- **Plot twists** (I like suffering apparently)
-- **Anime soundtracks** (instant motivation… for absolutely nothing)
+If you want to talk travel routes, hiking spots, adrenaline experiences, or share something funny:
 
-### ⚠️ Warning:
-If you mention your favorite anime, I will:
-1) nod seriously  
-2) say “W taste”  
-3) add it to my list  
-4) never watch it until 2029  
+- 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/
+- 🧃 Reddit: https://www.reddit.com/user/BadrSatan
+- 📫 Email: developerbadreddine@gmail.com
 
 <div align="center">
-  <img height="260" alt="anime yes" src="https://media.tenor.com/Ju3mGdG9dScAAAAC/anime-yes.gif">
+  <img height="240" alt="anime peace" src="https://media.giphy.com/media/26xBt1U4AkGm0S0Vy/giphy.gif">
 </div>
 
 ---
 
-## 🎮 Hobbies & Side Quests
-
-- **Anime & Manga** 📺📚  
-- **Football** ⚽ (sometimes I’m Messi, sometimes I’m “miss-y”)  
-- **Gym** 🏋️ (training for the *glow up arc*)  
-- **Random deep thoughts at 2AM** 🌌 (“What if I’m just an NPC?”)
-
-<div align="center">
-  <img height="240" alt="anime thinking" src="https://media.tenor.com/8Yd5nYy6lqUAAAAC/anime-thinking.gif">
-</div>
-
----
-
-## 🤝 Let’s connect (before the next season drops)
-
-<div align="center">
-  <img height="260" alt="anime wave" src="https://media.tenor.com/yoWmWvG3c1gAAAAC/anime-wave.gif">
-</div>
-
-- 🧑‍💻 GitHub: https://github.com/Badreddine-Ab  
-- 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/  
-- 👀 Reddit: https://www.reddit.com/user/BadrSatan  
-- 📫 Email: developerbadreddine@gmail.com  
-
----
-
-## 🧠 Final words (very serious)
-
-If you’re into anime, memes, or just want to vibe — welcome 🤝  
-If not… it’s okay… I forgive you (eventually).
-
-<div align="center">
-  <img height="280" alt="anime goodbye" src="https://media.tenor.com/J9lGfK2VxXUAAAAC/anime-bye.gif">
-</div>
+> PS: If you see me planning a “quick hike” that starts at 5AM…  
+> mind your business. 😄
