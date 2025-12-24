@@ -1,109 +1,97 @@
-# Hey there! 👋 I’m Badreddine Abourial (Badr)
+# Yo! I’m Badreddine 👋✨ (a.k.a. Badr)
 
 <div align="center">
-  <img height="300" width="700" alt="Hi There GIF" src="https://media1.tenor.com/m/l1Eq-DOUzqQAAAAd/hi-there.gif">
+  <img height="280" width="720" alt="anime hello" src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-hello.gif">
 </div>
 
-<br/><br/>
-
-I’m **Badreddine Abourial**, a **Cloud & DevOps / Production Engineer** who loves turning chaos into clean pipelines and calm dashboards.  
-I automate infra, ship safer deployments, and fight incidents like it’s a shonen final boss arc. ⚔️😄
-
----
-
-## 🌟 About Me
-
-<img height="380" width="480" align="right" alt="Anime DevOps GIF" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
-
-- 💼 **Lead DevOps @ MooBe (INDEXOR)** — roadmap, governance, reporting, and making things **production-ready**.  
-- 🧰 I live for **IaC (Terraform / Pulumi)**, **CI/CD (GitHub Actions / Jenkins / GitLab CI)**, and **Kubernetes (GKE + Cloud Run)**.
-- 👀 Observability nerd: **Grafana / Prometheus / ELK / GCP Logs**… because surprises are only fun in anime, not in prod.
-- 🧾 Documentation enjoyer (yes, we exist): runbooks, procedures, onboarding, standards.
-- 🤝 Open to collabs: DevOps, platform, infra, automation… or a heated debate about the *best* YAML indentation style.
-
----
-
-## 🧑‍💻 What I’m doing right now
-
-<img height="260" width="420" align="right" alt="Work GIF" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
-
-- 🚀 Designing & optimizing CI/CD (GitHub Actions + Jenkins) to ship faster **without summoning incident demons**.  
-- ☁️ Managing cloud infra via **Terraform** and keeping environments reliable & standardized.  
-- 🧠 Improving troubleshooting with logs + metrics (aka “why is it slow?” in 17 different ways).  
-- 📦 Deploying & operating services on **GKE/Kubernetes** and **Cloud Run** (Docker + Helm).
-- 🛡️ Working with security-minded tooling and access control (Vault, Keycloak, quality gates, etc.).
-
----
-
-## 🧰 Toolbox (a.k.a. the weapons I carry into production)
-
-### ☁️ Cloud & Infrastructure
-- **Google Cloud Platform (GCP)** (main realm)
-- **Azure / AWS** (notions, but I can survive there 😄)
-- **Terraform**, **Pulumi**
-
-### 📦 Containers & Orchestration
-- **Kubernetes**, **Docker**, **Helm**, **Rancher**
-- **GKE** (and explored **AKS** too)
-
-### 🚀 CI/CD & GitOps
-- **GitHub Actions**, **Jenkins**, **GitLab CI**
-- **ArgoCD**, **Backstage**
-
-### 📈 Observability & Security-ish stuff
-- **Grafana**, **Prometheus**
-- **ELK**, **GCP Logs**
-- **HashiCorp Vault**, **Keycloak**, **SonarQube**
-
-### 🧠 Languages I use to automate my way out of problems
-- **Python**, **Bash**, **Go**, **Node.js**
-- **JavaScript/TypeScript**, **React**, **Next.js**
-- (Also: **Laravel** when the plot demands it)
-
----
-
-## 🧩 Career Arc (short version)
-
-<img height="260" width="420" align="right" alt="Level up GIF" src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif">
-
-- **Lead DevOps — MooBe (INDEXOR)** *(Oct 2024 → Present, Marrakech)*  
-  CI/CD improvements, Terraform infra, GKE/Cloud Run deployments, observability, documentation, agile rituals.
-- **DevOps Consultant — Cegedim** *(Mar 2023 → Sep 2024, Agadir)*  
-  Automation with cybersecurity team, Keycloak for 500+ users, CI/CD templates & quality gates, Backstage templates, ArgoCD GitOps, Kubernetes migration, ELK logging.
-- **Full Stack Developer Intern — Cegedim** *(Jul 2022 → Sep 2022, Agadir)*  
-  Laravel + React real-time app, REST APIs, UI/UX collaboration.
-
----
-
-## 🏅 Community & Leadership
-
-- 🎤 Talks & mentoring: DevOps, Cloud & AI topics
-- 🧑‍🏫 Hackathon mentor: technical guidance + best practices
-- 🤝 **Rotaract Marrakech Toubkal**: active member (community actions)
-
----
-
-## 🎌 Off-hours (when prod lets me go)
-
-- Anime & manga (waiting for my “power-up episode”)
-- Football (neighbors say I’m the next big thing… in their group chat)
-- Gym (lifting heavy things, putting them back down, repeating until confidence increases)
-
----
-
-## 📫 Let’s connect (I reply faster than a failed pipeline… usually)
-
-<img height="280" width="420" align="right" alt="Ping GIF" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
-
-- 💌 Email: **developerbadreddine@gmail.com**
-- 📞 Phone: **+212 612-472-386**
-- 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/
-- 🧑‍💻 GitHub: https://github.com/Badreddine-Ab
-
----
+<br/>
 
 <div align="center">
-  <img height="260" width="520" alt="Anime thumbs up" src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif">
-  <br/>
-  <sub>If you read this far, you officially passed the “README endurance test”. ✅</sub>
+  <img height="260" alt="anime vibe" src="https://media.tenor.com/9n7QZ3eC0eUAAAAC/gojo-satoru-gojo.gif">
+</div>
+
+---
+
+## 🌙 About Me (100% personal, 0% corporate 😤)
+
+- I’m **Badreddine Abourial** — human by default, **anime character in progress**.
+- I watch anime like it’s a full-time responsibility (it’s not… but it *feels* like it is).
+- I read manga and tell myself: “one chapter” (liar).
+- Football enjoyer ⚽ (skills vary depending on who’s watching).
+- Gym sometimes 🏋️ (mostly to earn snacks… and dramatic poses).
+
+<div align="center">
+  <img height="260" alt="anime dramatic" src="https://media.tenor.com/M2wYp9Uo6c0AAAAC/anime-dramatic.gif">
+</div>
+
+---
+
+## 🍜 Current Mood / Lore
+
+> “Yes, I’m busy… busy thinking about the next episode.”
+
+- If life gets hard, I simply **open an opening** and pretend I’m training for a tournament arc.
+- I solve problems using the sacred technique: **sleep → snack → retry**.
+- My superpower is **getting emotionally attached** to fictional characters in 12 minutes.
+
+<div align="center">
+  <img height="240" alt="anime eat" src="https://media.tenor.com/1nNnRZyQd9kAAAAC/anime-eat.gif">
+  <img height="240" alt="anime sleep" src="https://media.tenor.com/47qpxkqY0nEAAAAC/anime-sleep.gif">
+</div>
+
+---
+
+## 🎌 Anime Corner (important business)
+
+### ✅ I’m into:
+- **Shonen hype** (screaming = power)
+- **Plot twists** (I like suffering apparently)
+- **Anime soundtracks** (instant motivation… for absolutely nothing)
+
+### ⚠️ Warning:
+If you mention your favorite anime, I will:
+1) nod seriously  
+2) say “W taste”  
+3) add it to my list  
+4) never watch it until 2029  
+
+<div align="center">
+  <img height="260" alt="anime yes" src="https://media.tenor.com/Ju3mGdG9dScAAAAC/anime-yes.gif">
+</div>
+
+---
+
+## 🎮 Hobbies & Side Quests
+
+- **Anime & Manga** 📺📚  
+- **Football** ⚽ (sometimes I’m Messi, sometimes I’m “miss-y”)  
+- **Gym** 🏋️ (training for the *glow up arc*)  
+- **Random deep thoughts at 2AM** 🌌 (“What if I’m just an NPC?”)
+
+<div align="center">
+  <img height="240" alt="anime thinking" src="https://media.tenor.com/8Yd5nYy6lqUAAAAC/anime-thinking.gif">
+</div>
+
+---
+
+## 🤝 Let’s connect (before the next season drops)
+
+<div align="center">
+  <img height="260" alt="anime wave" src="https://media.tenor.com/yoWmWvG3c1gAAAAC/anime-wave.gif">
+</div>
+
+- 🧑‍💻 GitHub: https://github.com/Badreddine-Ab  
+- 💼 LinkedIn: https://www.linkedin.com/in/badreddine-abourial-ba0150178/  
+- 👀 Reddit: https://www.reddit.com/user/BadrSatan  
+- 📫 Email: developerbadreddine@gmail.com  
+
+---
+
+## 🧠 Final words (very serious)
+
+If you’re into anime, memes, or just want to vibe — welcome 🤝  
+If not… it’s okay… I forgive you (eventually).
+
+<div align="center">
+  <img height="280" alt="anime goodbye" src="https://media.tenor.com/J9lGfK2VxXUAAAAC/anime-bye.gif">
 </div>
